@@ -18,7 +18,7 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
-
+| Kim Misung | https://github.com/mixsung | | Seoul | |
 
 
 ## ㄴ
